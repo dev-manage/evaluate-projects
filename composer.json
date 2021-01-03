@@ -1,0 +1,25 @@
+{
+    "name": "laloinsane/evaluate-projects",
+    "description": "Libreria Laravel para la evaluación de proyectos.",
+    "keywords": [
+        "evaluate",
+        "projects"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laloinsane",
+            "email": "calisto.michel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "laloinsane\\evaluate-projects\\": "src/"
+        }
+    }
+}
