@@ -6,9 +6,9 @@ Libreria Laravel para la evaluación de proyectos.
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="left">
-  <a href="" target="_blank"><img src="https://gist.githubusercontent.com/laloinsane/75d18360a31a64277ab5f871f3aa5cdb/raw/09cafaa2cc871e34b8ecf54eee0d04ac3df03677/composer-badge.png" alt="Composer" height="60"></a>
+  <a href="" target="_blank"><img src="https://gist.githubusercontent.com/laloinsane/75d18360a31a64277ab5f871f3aa5cdb/raw/09cafaa2cc871e34b8ecf54eee0d04ac3df03677/composer-badge.png" alt="Composer" height="180"></a>
 </p>
 
 ---
 
-[Licencia MIT]()
+[Licencia MIT](https://github.com/dev-manage/evaluate-projects/blob/master/LICENSE.md)
